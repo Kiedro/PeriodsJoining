@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodsJoining", "PeriodsJoining\PeriodsJoining.csproj", "{B9DC9E32-367D-4353-846D-2C04BF2A8274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodsJoining.UnitTests", "PeriodsJoining.UnitTests\PeriodsJoining.UnitTests.csproj", "{832301D2-C648-485F-9277-6D4AC42B2997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9DC9E32-367D-4353-846D-2C04BF2A8274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DC9E32-367D-4353-846D-2C04BF2A8274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DC9E32-367D-4353-846D-2C04BF2A8274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DC9E32-367D-4353-846D-2C04BF2A8274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832301D2-C648-485F-9277-6D4AC42B2997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832301D2-C648-485F-9277-6D4AC42B2997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832301D2-C648-485F-9277-6D4AC42B2997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832301D2-C648-485F-9277-6D4AC42B2997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {921BBFE6-6494-4667-BEA1-DB27DCEDD6FF}
+	EndGlobalSection
+EndGlobal
